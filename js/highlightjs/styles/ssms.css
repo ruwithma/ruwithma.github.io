@@ -2,50 +2,50 @@
     display: block;
     overflow-x: auto;
     padding: 0.5em;
-    background: rgb(0, 0, 0);
-    color: #808080;
+    background: rgb(0, 0, 0); /* Change background to black */
+    color: #ffffff; /* Change text color to white */
 }
 
 .language-tsql .hljs-keyword {
-    color: #0000ff;
+    color: #00ffff; /* Adjust for better contrast */
     font-weight: normal;
 }
 
 .language-tsql .hljs-built_in {
-    color: #ff00ff;
+    color: #ff80ff; /* Adjust for better contrast */
 }
 
 .language-tsql .hljs-type {
-    color: #008000;
+    color: #80ff80; /* Adjust for better contrast */
     font-weight: normal;
 }
 
 .language-tsql .hljs-function {
-    color: #800000;
+    color: #ff8080; /* Adjust for better contrast */
 }
 
 .language-tsql .hljs-number {
-    color: #000000;
+    color: #ffffff; /* Adjust for better contrast */
 }
 
 .language-tsql .hljs-string {
-    color: #ff0000;
+    color: #ff4040; /* Adjust for better contrast */
 }
 
 .language-tsql .hljs-symbol {
-    color: #000000;
+    color: #ffffff; /* Adjust for better contrast */
 }
 
 .language-tsql .hljs-comment {
-    color: #008000;
-    font-style: normal;
+    color: #80ff80; /* Adjust for better contrast */
+    font-style: italic; /* Optional: make comments italic for better readability */
 }
 
 .language-tsql .hljs-meta {
-    background: #cdcdcd;
-    color: #000000;
+    background: #404040; /* Adjust for better contrast */
+    color: #ffffff; /* Adjust for better contrast */
 }
 
 .language-tsql .hljs-literal {
-    color: #808080;
+    color: #c0c0c0; /* Adjust for better contrast */
 }
