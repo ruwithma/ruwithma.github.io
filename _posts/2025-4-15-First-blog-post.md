@@ -24,3 +24,5 @@ Writing about security challenges forces us to:
 Remember, today's security note could be tomorrow's solution for someone facing a critical breach or vulnerability.
 
 Stay curious, keep learning, and most importantly – keep sharing!
+
+`NOTE : THIS POST IS AI GENARATED TO TEST WHEthER THE BLOG WORKS`
