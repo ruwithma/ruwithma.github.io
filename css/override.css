@@ -43,3 +43,22 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+body, html {
+  background: #111 !important;
+  color: #fff !important;
+}
+
+.post-content, .post, .h-entry, .post-title, .post-meta, .post-header, .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6, .post-content p, .post-content li, .post-content a {
+  color: #fff !important;
+  background: transparent !important;
+}
+
+a { color: #6cf !important; }
+a:visited { color: #b6f !important; }
+
+/* Optional: style code blocks for dark mode */
+pre, code, .hljs {
+  background: #222 !important;
+  color: #fff !important;
+}
