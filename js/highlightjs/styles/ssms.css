@@ -2,50 +2,50 @@
     display: block;
     overflow-x: auto;
     padding: 0.5em;
-    background: rgb(0, 0, 0); /* Change background to black */
-    color: #ffffff; /* Change text color to white */
+    background: rgb(255, 255, 255); /* Revert background to white */
+    color: #808080; /* Revert text color to gray */
 }
 
 .language-tsql .hljs-keyword {
-    color: #00ffff; /* Adjust for better contrast */
+    color: #0000ff; /* Revert to original color */
     font-weight: normal;
 }
 
 .language-tsql .hljs-built_in {
-    color: #ff80ff; /* Adjust for better contrast */
+    color: #ff00ff; /* Revert to original color */
 }
 
 .language-tsql .hljs-type {
-    color: #80ff80; /* Adjust for better contrast */
+    color: #008000; /* Revert to original color */
     font-weight: normal;
 }
 
 .language-tsql .hljs-function {
-    color: #ff8080; /* Adjust for better contrast */
+    color: #800000; /* Revert to original color */
 }
 
 .language-tsql .hljs-number {
-    color: #ffffff; /* Adjust for better contrast */
+    color: #000000; /* Revert to original color */
 }
 
 .language-tsql .hljs-string {
-    color: #ff4040; /* Adjust for better contrast */
+    color: #ff0000; /* Revert to original color */
 }
 
 .language-tsql .hljs-symbol {
-    color: #ffffff; /* Adjust for better contrast */
+    color: #000000; /* Revert to original color */
 }
 
 .language-tsql .hljs-comment {
-    color: #80ff80; /* Adjust for better contrast */
-    font-style: italic; /* Optional: make comments italic for better readability */
+    color: #008000; /* Revert to original color */
+    font-style: normal; /* Revert to original style */
 }
 
 .language-tsql .hljs-meta {
-    background: #404040; /* Adjust for better contrast */
-    color: #ffffff; /* Adjust for better contrast */
+    background: #cdcdcd; /* Revert to original background */
+    color: #000000; /* Revert to original color */
 }
 
 .language-tsql .hljs-literal {
-    color: #c0c0c0; /* Adjust for better contrast */
+    color: #808080; /* Revert to original color */
 }
