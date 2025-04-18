@@ -5,7 +5,7 @@ date: 2025-04-18
 categories: cybersecurity blogging
 ---
 
-# My Experience
+# Learning Cyber Secuirity as a beginner ?
 
 So, my experience as I was starting to learn cybersecurity is not an exact linear path that I have used. Even now, I'm still in the process of learning ethical hacking, and it’s not the easiest thing to do. It might depend on what field you are planning to work in, but my particular interest is in **ethical hacking** and **bug bounty hunting**. So let me share with you what my journey is looking like and what resources and techniques I use in order to go forward in my journey.
 
