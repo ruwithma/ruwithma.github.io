@@ -1,0 +1,14 @@
+{
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.suggest.selectionMode": "never",
+    "github.copilot.chat.edits.newNotebook.enabled": false,
+    "github.copilot.chat.copilotDebugCommand.enabled": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.chat.startDebugging.enabled": false,
+    "python.analysis.aiCodeActions": {
+        
+    }
+}
