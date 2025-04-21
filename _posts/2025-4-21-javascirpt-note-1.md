@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Math and strings in JavaScript (course note 1)"
-date: 2025-04-18
+date: 2025-04-21
 categories: cybersecurity blogging
 ---
 
